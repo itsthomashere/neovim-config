@@ -1,4 +1,4 @@
 return {
-  "MunifexNV/nui.nvim",
+  "MunifTanjim/nui.nvim",
   event = "VeryLazy",
 }

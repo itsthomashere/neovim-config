@@ -122,6 +122,8 @@ keymap.set("v", "u", "gk", { desc = "Move Up in visual mode" }) -- Move Up in vi
 
 keymap.set("v", "i", "l", { desc = "Move Right in visual mode" }) -- Move Right in visual mode
 
+-- map ':w' to leader w
+
 -- End of word in visual mode, replaces (e)nd
 -- keymap.set("v", "E", "e", { desc = "End of word in visual mode" })
 
